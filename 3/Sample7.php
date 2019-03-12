@@ -29,6 +29,7 @@
      print "<tr><td>\$num1 * \$num2</td><td>{$num5}</td></tr>\n";
      print "<tr><td>\$num1 / \$num2</td><td>{$num6}</td></tr>\n";
      print "<tr><td>\$num1 % \$num2</td><td>{$num7}</td></tr>\n";
+  
       ?>
    </table>
 </body>
