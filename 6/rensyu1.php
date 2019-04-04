@@ -20,10 +20,9 @@ $max = 0;
     </tr>
     <?php
     foreach ($score as $id => $value) {
+        print "<tr><td>{$id}</td><td>{$value}</td></tr>\n";
         if ($max < $score[$id]) {
             $max = $score[$id];
-
-            print "<tr><td>{$id}</td><td>{$value}</td></tr>\n";
         }
     }
     ?>
