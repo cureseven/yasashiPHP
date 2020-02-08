@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cars>
+    <car country="日本">
+        <name>乗用車</name>
+        <price>150</price>
+        <img flie="car1.jpg"/>
+    </car>
+    <car country="日本">
+        <name>トラック</name>
+        <price>500</price>
+        <img flie="car2.jpg"/>
+    </car>
+    <car country="ソ連">
+        <name>オープンカー</name>
+        <price>200</price>
+        <img file="car3.jpg"/>
+    </car>
+</cars>

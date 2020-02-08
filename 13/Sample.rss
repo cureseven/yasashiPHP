@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+<title>Car Shop Yasashi</title>
+<link>http://homepage3.nifty.com/~mana/</link>
+<description>
+乗用車からトラックまで</description>
+<language>ja</language>
+<pubDate>Sat, 4 Sep 2014 08:27:51 +0900</pubDate>
+<lastBuildDate>Mon, 5 Jan 2014 14:31:27 +0900</lastBuildDate>
+<item>
+
+<title>乗用車</title>
+
+<link>http://homepage3.nifty.com/~mana/yasaphp.html</link>
+<description>5人まで乗車することができます。家族用の車です。</description>
+<pubDate>Mon, 6 Sep 2014 14:31:27 +0900</pubDate>
+</item>
+
+<item>
+
+<title>トラック</title>
+
+<link>http://homepage3.nifty.com/~mana/yasaphp.html</link>
+<description>荷物の運搬にご利用できます。業務用の車です。</description>
+<pubDate>Sun, 5 Sep 2014 16:54:36 +0900</pubDate>
+</item>
+
+<item>
+<title>オープンカー</title>
+
+<link>http://homepage3.nifty.com/~mana/yasaphp.html</link>
+<description>晴天時には天窓を開閉できます。 レジャー用に最適です。</description>
+<pubDate>Mon, 6 Sep 2014 00:18:01 +0900</pubDate>
+</item>
+
+</channel>
+
+</rss>
